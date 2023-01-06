@@ -14,8 +14,8 @@ brew install lrzsz
 ```
 2. save this shell to somewhere, etc`/usr/local/bin`
 ```bash
-wget -qO /usr/local/bin/iterm2-lrzsz https://github.com/conorzhong/iterm2-lrzsz/raw/main/iterm2-lrzsz.sh
-chmod +x /usr/local/bin/iterm2-lrzsz
+sudo wget -qO /usr/local/bin/iterm2-lrzsz https://github.com/conorzhong/iterm2-lrzsz/raw/main/iterm2-lrzsz.sh
+sudo chmod +x /usr/local/bin/iterm2-lrzsz
 ```
 3. configure iterm2
     1. open: Preferences->Profiles->Advanced->Triggers->"+"(at bottom left)
